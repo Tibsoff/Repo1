@@ -1,3 +1,5 @@
+Git create new repo
+
 git init
 change1
 git add .
