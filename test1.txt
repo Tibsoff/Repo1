@@ -1,2 +1,4 @@
-change 1.
-change 2.
+git init
+change1
+git add .
+git commit - "second commit"
