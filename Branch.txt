@@ -10,3 +10,8 @@ git commit -m "txt"
 git checkout origin master
 git merge "nameBranch"
 git push origin master
+
+
+Delete branch
+Git branch --d "nameBranch" - delete from local 
+Git push origin --delete "nameBranch" - delete from remote
