@@ -2,3 +2,7 @@ git init
 change1
 git add .
 git commit - "second commit"
+
+Before to commit something we need to do git pull origin main
+
+
