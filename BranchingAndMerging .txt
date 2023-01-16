@@ -1,0 +1,23 @@
+1. Git and GitHub - Branching and Merging                                      touch "file name.txt" - Create a file
+
+1. What are branches?
+2. How to create branch
+3. How to checkout branch
+4. How to merge branch to master
+5. How to delete branch ( local and remote ).
+
+Step 1 : Create branch
+	 - git branch "branch name".
+
+Step 2 : Checkout branch
+	 - git checkout "branch name".
+
+Step 3 : Merge new branch in master branch
+ 	 - git merge "branch name".
+
+Step 4 : Delete branch
+	 - git branch -d "branch name" - delete from local.
+	 - git push origin --delete "branch name" - delete from remote.
+
+
+
